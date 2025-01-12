@@ -5,7 +5,9 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanxkp007&label=Profile%20views&color=0e75b6&style=flat" alt="karanxkp007" /> </p>
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=KaraNxKP007&color=blue&style=flat-square)
 
 - 🔭 I’m currently working on **Molecular Dynamics Simulation for Electrocoalescence under Force Fields**
 

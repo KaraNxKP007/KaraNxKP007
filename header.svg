@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 850 250" width="850" height="250" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 750 245" width="750" height="245" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -192,8 +192,8 @@
 
           <div class="stats">
             <div class="stat-badge"><span class="stat-icon">💡</span> CodeBulb Creator</div>
-            <div class="stat-badge"><span class="stat-icon">🤖</span> Resume AI Assistant</div>
-            <div class="stat-badge"><span class="stat-icon">🎓</span> IIT Jodhpur</div>
+            <div class="stat-badge"><span class="stat-icon">🤖</span> CLBOT | Resume AI Assistant</div>
+            <div class="stat-badge"><span class="stat-icon">🎓</span> B.Tech | IIT Jodhpur</div>
           </div>
         </div>
 

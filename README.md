@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<img src="header.svg" width="100%" alt="Animated Header" />
+<img src="header.svg" width = 100% alt="Animated Header" />
 </div>
 
 

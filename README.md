@@ -132,7 +132,7 @@ I specialize in **Agentic AI** and **Multimodal Data Pipelines**. From engineeri
 ## 🔮 Featured Projects
 
 ### **🤖 CodeBulb - Autonomous AI Pilot for VS Code**
-* **Stack:** TypeScript, VS Code API, Gemini 1.5, DeepSeek V3.
+* **Stack:** TypeScript, VS Code API, Gemini 2.5, DeepSeek V3.
 * **Core Tech:** Engineered a **dual-engine AI architecture** capable of real-time context switching.
 * **Agentic Capabilities:** Developed autonomous Node.js agents that execute **shell commands** to scaffold projects and auto-patch syntax errors without human intervention.
 
